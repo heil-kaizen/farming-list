@@ -1,0 +1,5 @@
+{
+  "name": "Farming Tracker",
+  "description": "A tracker for managing a list of farming targets.",
+  "requestFramePermissions": []
+}
